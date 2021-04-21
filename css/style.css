@@ -4,12 +4,17 @@
 }
 @font-face {
     font-family: 'Campus';
-    src: url('../font/Campus.ttf format') format('truetype')
+    src: url('../font/Campus.ttf') format('truetype')
 }
 @font-face {
     font-family: 'Championship';
-    src: url('./font/Championship.ttf') format('truetype')
+    src: url('../font/Championship.ttf') format('truetype')
 }
+@font-face {
+    font-family: 'DotGothic';
+    src: url('../font/DotGothic.ttf') format('truetype')
+}
+
 
 body{
     margin: 1%;    
