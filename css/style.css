@@ -7,10 +7,6 @@
     src: url('../font/Campus.ttf') format('truetype')
 }
 @font-face {
-    font-family: 'Championship';
-    src: url('../font/Championship.ttf') format('truetype')
-}
-@font-face {
     font-family: 'DotGothic';
     src: url('../font/DotGothic.ttf') format('truetype')
 }
@@ -19,7 +15,7 @@
 body{
     margin: 1%;    
     background: linear-gradient(135deg, rgba(42,255,141,1) 0%, rgba(9,70,121,1) 52%, rgba(4,6,37,1) 100%);
-    font-family: 'Campus';
+    font-family: 'DotGothic';
     
 }
 li{
